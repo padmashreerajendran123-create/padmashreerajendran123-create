@@ -86,6 +86,16 @@ An interactive project based around creating and building a brand.
 
 ---
 
+### 🌱 Study Focus Garden
+
+A Flutter study productivity app for tracking study activities, focus sessions, daily goals, progress, and growing a virtual study garden.
+
+**Technology:** Flutter, Dart
+
+[View Project →](https://github.com/padmashreerajendran123-create/Study-Focus-Garden)
+
+---
+
 ## 🎯 My Goal
 
 To become a skilled software developer by continuously learning,
